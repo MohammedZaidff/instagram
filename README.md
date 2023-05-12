@@ -1,3 +1,2 @@
 # instagram
-online application
 gaming
